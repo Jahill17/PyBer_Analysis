@@ -19,4 +19,4 @@ The first deliverable required me to obtain the following pieces of information:
 
 Based on the information retrieved and calculated the below summary dataframe was created.  This shows there were significantly more urban rides given and drivers than rural and suburban.  On the other hand, the average fare per rural driver and suburban driver is significantly higher than urban.  This aligns with expectations since urban areas are more densly populated and individuals commute shorter distances, compared to less densly populated areas where individuals generally commute longer distances in suburban and even more so in rural areas.
 
-![PyBer Challenge Dataframe Summary](PyBer Challenge/PyBer_summary_dataframe.png)
+![PyBer Challenge Dataframe Summary](https://github.com/Jahill17/PyBer_Analysis/blob/main/PyBer%20Challenge/PyBer_summary_dataframe.png)
